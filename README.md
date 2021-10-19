@@ -3,4 +3,4 @@ The Front-End of the project is completed using HTML, CSS and Bootstrap. Backend
 
 I have added a new feature of rental in the website. 
 
-The website consists of mamin page, login, signup, products view page. Cart and the payment gateway is been worked on. 
+The website consists of main page, login, signup, products view page. Cart, selling and rental feature is been worked on. 
